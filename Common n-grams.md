@@ -1,91 +1,102 @@
 # Common n-grams:
 
 ## 4-grams:
-de vez em quando
-estados unidos da américa
-mato grosso do sul
-rio grande do norte
-rio grande do sul
-united states census bureau
+- de vez em quando
+- de todos os tempos
+- estados unidos da américa
+- mato grosso do sul
+- rio grande do norte
+- rio grande do sul
+- united states census bureau
+- united states of america
 
 ## 3-grams:
-a fim de
-a maior parte
-américa do norte
-américa do sul
-ao mesmo tempo
-board of trustees
-câmara dos deputados
-copa do mundo
-da década de
-da mesma forma
-de acordo com
-de modo que
-fim de semana
-hoje em dia
-libertadores da américa
-nada a ver
-pela primeira vez
-ponto de vista
-pontos de vista
-por mais que
-por sua vez
-primeira guerra mundial
-rio de janeiro
-royal botanic gardens
-segunda guerra mundial
-um total de
-uma espécie de
-uma série de
-uma vez que
+- a maior parte
+- além de que
+- américa do norte
+- américa do sul
+- ao mesmo tempo
+- da década de
+- da mesma forma
+- de acordo com
+- de modo que
+- fim de semana
+- grande coisa
+- hoje em dia
+- libertadores da américa
+- longe de ser
+- mais ou menos
+- países baixos
+- ponto de vista
+- pontos de vista
+- por mais que
+- por sua vez
+- pouco caso
+- primeira guerra mundial
+- rio de janeiro
+- royal botanic gardens
+- segunda guerra mundial
+- um total de
+- uma espécie de
+- uma série de
+- uma vez que
 
 ## 2-grams:
-a fim
-a partir
-a pena
-ainda assim
-ainda mais
-ainda que
-américa central
-ao lado
-ao longo
-ao redor
-ao vivo
-assim como
-até logo
-até mais
-cerca de
-com certeza
-das quais
-de acordo
-distrito federal
-dos quais
-em tono
-em vez
-espírito santo
-estados unidos
-forças armadas
-jogos olímpicos
-jogos pan-americanos
-mais tarde
-mesmo assim
-mesmo que
-minas gerais
-new york
-no entanto
-nossa senhora
-num raio
-obra prima
-pelo menos
-per capita
-pertencente a
-pertencente à
-pode ser
-primeira guerra
-reino unido
-santa catarina
-são paulo
-segunda guerra
-todo mundo
-united states
-web service
+- a desejar
+- a fim
+- a partir
+- a perder
+- a ver
+- ainda assim
+- ainda mais
+- ainda que
+- américa central
+- ao lado
+- ao longo
+- ao redor
+- ao vivo
+- assim como
+- até logo
+- até mais
+- cerca de
+- com certeza
+- das quais
+- de acordo
+- distrito federal
+- dos quais
+- em tono
+- em vez
+- espírito santo
+- estados unidos
+- forças armadas
+- harry potter
+- jogos olímpicos
+- jogos pan-americanos
+- mais tarde
+- mesmo assim
+- mesmo que
+- minas gerais
+- new york
+- no decorrer
+- no entanto
+- no geral
+- nossa senhora
+- num raio
+- obra prima
+- pelo menos
+- per capita
+- pertencente a
+- pertencente à
+- pode ser
+- por isso
+- prato cheio
+- primeira guerra
+- reino unido
+- santa catarina
+- são paulo
+- segunda guerra
+- todo mundo
+- um dos
+- uma das
+- united states
+- web service
