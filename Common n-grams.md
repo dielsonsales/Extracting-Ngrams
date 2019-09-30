@@ -5,6 +5,7 @@
 - de todos os tempos
 - estados unidos da américa
 - mato grosso do sul
+- o senhor dos anéis
 - rio grande do norte
 - rio grande do sul
 - united states census bureau
@@ -16,6 +17,7 @@
 - américa do norte
 - américa do sul
 - ao mesmo tempo
+- copa do mundo
 - da década de
 - da mesma forma
 - de acordo com
@@ -26,6 +28,7 @@
 - libertadores da américa
 - longe de ser
 - mais ou menos
+- national footbal league
 - países baixos
 - ponto de vista
 - pontos de vista
@@ -46,6 +49,7 @@
 - a fim
 - a partir
 - a perder
+- a seguir
 - a ver
 - ainda assim
 - ainda mais
@@ -72,6 +76,7 @@
 - harry potter
 - jogos olímpicos
 - jogos pan-americanos
+- jogos paralímpicos
 - mais tarde
 - mesmo assim
 - mesmo que
@@ -81,6 +86,7 @@
 - no entanto
 - no geral
 - nossa senhora
+- nova iorque
 - num raio
 - obra prima
 - pelo menos
@@ -91,6 +97,7 @@
 - por isso
 - prato cheio
 - primeira guerra
+- rede globo
 - reino unido
 - santa catarina
 - são paulo
@@ -99,4 +106,5 @@
 - um dos
 - uma das
 - united states
+- via láctea
 - web service
