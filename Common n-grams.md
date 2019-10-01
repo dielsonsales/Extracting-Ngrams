@@ -94,6 +94,7 @@
 - pertencente a
 - pertencente à
 - pode ser
+- por exemplo
 - por isso
 - prato cheio
 - primeira guerra
@@ -102,6 +103,8 @@
 - santa catarina
 - são paulo
 - segunda guerra
+- tal como
+- tanto quanto
 - todo mundo
 - um dos
 - uma das

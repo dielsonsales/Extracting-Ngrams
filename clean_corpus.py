@@ -19,8 +19,8 @@ def filter_special_characters(text):
 
 
 def main():
-    input_file_path = "data/filmow_comments2.txt"
-    output_file_path = "data/filmow2.txt"
+    input_file_path = "data/Z.txt"
+    output_file_path = "data/Z-filtered.txt"
     number_of_lines = calculate_number_of_lines(input_file_path)
     with open(input_file_path, "r", encoding='utf-8') as file_input, open(output_file_path, "w", encoding='utf-8') as file_output:
         counter = 0
